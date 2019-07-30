@@ -1,0 +1,4 @@
+.idea
+front/app/node_modules
+back/app/__pycache__
+
